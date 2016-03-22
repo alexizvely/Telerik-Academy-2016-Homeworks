@@ -14,6 +14,7 @@ Programming Languages
 > Both Swift and C# are type safe languages. Syntax wise, swift seems a cousin to C#.
 
 > Python: Both languages are strongly typed.
+
 ### How do they differ from C# ###
 > Javascript is a non-typed scripting language, which means it typically runs uncompiled in browsers. C# is a strongly-typed language, which is typically compiled into a .dll. 
 
